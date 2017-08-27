@@ -2,15 +2,11 @@
 
 This repository contains tutorials and examples on how to perform tensor operations using TensorLy and the newly added MXNet backend.
 
-The MXNet backend will soon be merged into master.
-However, if you want to try it right now, you need to install from the mxnet branch:
 
+The easiest way to run the notebooks it to pip install TensorLy and clone this repository:
 ```
-git clone https://github.com/tensorly/tensorly
-cd tensorly
-git checkout mxnet
-git pull origin mxnet
-pip install -e .
+pip install -U tensorly
+git clone https://github.com/JeanKossaifi/tensorly_notebooks
 ```
 
 You are ready to go!
