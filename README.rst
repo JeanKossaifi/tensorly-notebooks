@@ -54,7 +54,7 @@ Table of contents
 - `Tucker decomposition via gradient descent <https://github.com/tensorly/tensorly-notebooks/blob/master/05_pytorch_backend/tucker_decomposition_tensorly_and_pytorch.ipynb>`_
 - `Tensor regression networks <https://github.com/tensorly/tensorly-notebooks/blob/master/05_pytorch_backend/tensor_regression_layer_pytorch.ipynb>`_
 
-Useful ressources
+Useful resources
 =================
 
 The following are very useful sources of information and I highly recomment you check them out:
