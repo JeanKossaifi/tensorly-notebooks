@@ -9,7 +9,7 @@ Installation
 ============
 You will need to have the latest version of TensorLy installed to run these examples as explained in the `instructions <https://tensorly.github.io/dev/installation.html>`_.
 
-The easiest way is to use pip::
+The easiest way is to clone the repository::
 
    git clone https://github.com/tensorly/tensorly
    cd tensorly
