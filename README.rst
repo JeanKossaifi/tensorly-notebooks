@@ -42,14 +42,14 @@ Table of contents
 
 - `Low-rank tensor regression <https://github.com/tensorly/tensorly-notebooks/blob/master/03_tensor_regression/Low_rank_tensor_regression.ipynb>`_
 
-4 - Tensor methods and deep learning with TensorLy and MXNet
-------------------------------------------------------------
+4 - Tensor methods and deep learning with the MXNet backend
+-----------------------------------------------------------
 
 - `Tucker decomposition via gradient descent <https://github.com/tensorly/tensorly-notebooks/blob/master/04_mxnet_backend/tucker_decomposition_with_mxnet_and_tensorly.ipynb>`_
 - `Tensor regression networks <https://github.com/tensorly/tensorly-notebooks/blob/master/04_mxnet_backend/tensor_regression_layer_MXNet.ipynb>`_
 
-5 - Tensor methods and deep learning with TensorLy and PyTorch 
---------------------------------------------------------------
+5 - Tensor methods and deep learning with the PyTorch backend
+-------------------------------------------------------------
 
 - `Tucker decomposition via gradient descent <https://github.com/tensorly/tensorly-notebooks/blob/master/05_pytorch_backend/tucker_decomposition_tensorly_and_pytorch.ipynb>`_
 - `Tensor regression networks <https://github.com/tensorly/tensorly-notebooks/blob/master/05_pytorch_backend/tensor_regression_layer_pytorch.ipynb>`_
