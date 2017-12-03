@@ -59,6 +59,6 @@ Useful ressources
 
 The following are very useful sources of information and I highly recomment you check them out:
 
- - `TensorLy documentation <https://tensorly.github.io/dev/index.html>`_ : extensive documentation, API, etc.
- - `Deep Learning - The Straight Dope <https://github.com/zackchase/mxnet-the-straight-dope>`_ : a great tutorial for Deep Learning using MXNet, by Zack Lipton.
- - `Deep Learning with PyTorch <http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html>`_ : another great tutorial, this time with PyTorch, by Soumith Chintala. 
+- `TensorLy documentation <https://tensorly.github.io/dev/index.html>`_ : extensive documentation, API, etc.
+- `Deep Learning - The Straight Dope <https://github.com/zackchase/mxnet-the-straight-dope>`_ : a great tutorial for Deep Learning using MXNet, by Zack Lipton.
+- `Deep Learning with PyTorch <http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html>`_ : another great tutorial, this time with PyTorch, by Soumith Chintala. 
