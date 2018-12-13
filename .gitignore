@@ -1,5 +1,6 @@
 # custom ignores
 */yaleb/
+07_pydata_sparse_backend/*.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
