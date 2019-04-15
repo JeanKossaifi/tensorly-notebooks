@@ -2,7 +2,7 @@
 Tensor methods in Python with TensorLy
 ======================================
 
-This repository contains a series of tutorials and examples on tensor learning, with implementations in Python using `TensorLy <https://github.com/tensorly/tensorly>`_, and how to combine tensor methods and deep learning using the `MXNet <https://mxnet.incubator.apache.org/>`_,  `PyTorch <http://pytorch.org/>`_, `TensorFlow <https://www.tensorflow.org/>`__ and `CuPy <https://cupy.chainer.org/>`__ frameworks as backends.
+This repository contains a series of tutorials and examples on tensor learning, with implementations in Python using `TensorLy <https://github.com/tensorly/tensorly>`_, and how to combine tensor methods and deep learning using the `MXNet <https://mxnet.incubator.apache.org/>`_,  `PyTorch <http://pytorch.org/>`_ and `TensorFlow <https://www.tensorflow.org/>`__ frameworks as backends.
 
 
 Installation
