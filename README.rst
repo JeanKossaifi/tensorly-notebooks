@@ -54,7 +54,7 @@ Table of contents
 - `Tucker decomposition via gradient descent <https://github.com/tensorly/tensorly-notebooks/blob/master/05_pytorch_backend/tucker_decomposition_tensorly_and_pytorch.ipynb>`_
 - `Tensor regression networks <https://github.com/tensorly/tensorly-notebooks/blob/master/05_pytorch_backend/tensor_regression_layer_pytorch.ipynb>`_
 
-6 - Tensor methods and deel learning with the TensorFlow backend
+6 - Tensor methods and deep learning with the TensorFlow backend
 ----------------------------------------------------------------
 
 - `Tucker decomposition via gradient descent <https://github.com/JeanKossaifi/tensorly-notebooks/blob/master/06_tensorflow_backend/tensorflow_tucker.ipynb>`__
