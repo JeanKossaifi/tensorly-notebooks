@@ -2,7 +2,7 @@
 Tensor methods in Python with TensorLy
 ======================================
 
-This repository contains a series of tutorials and examples on tensor learning, with implementations in Python using `TensorLy <https://github.com/tensorly/tensorly>`_, and how to combine tensor methods and deep learning using the `MXNet <https://mxnet.incubator.apache.org/>`_ and `PyTorch <http://pytorch.org/>`_ backends.
+This repository contains a series of tutorials and examples on tensor learning, with implementations in Python using `TensorLy <https://github.com/tensorly/tensorly>`_, and how to combine tensor methods and deep learning using the `MXNet <https://mxnet.incubator.apache.org/>`_,  `PyTorch <http://pytorch.org/>`_, `TensorFlow <https://www.tensorflow.org/>`__ and `CuPy <https://cupy.chainer.org/>`__ frameworks as backends.
 
 
 Installation
@@ -61,4 +61,5 @@ The following are very useful sources of information and I highly recomment you 
 
 - `TensorLy documentation <https://tensorly.github.io/dev/index.html>`_ : extensive documentation, API, etc.
 - `Deep Learning - The Straight Dope <https://github.com/zackchase/mxnet-the-straight-dope>`_ : a great tutorial for Deep Learning using MXNet, by Zack Lipton.
-- `Deep Learning with PyTorch <http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html>`_ : another great tutorial, this time with PyTorch, by Soumith Chintala. 
+- `Deep Learning with PyTorch <http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html>`_ : another great tutorial, this time with PyTorch, by Soumith Chintala.
+- The `fast.ai cource <https://www.fast.ai/>`__ : a great course that teaches Deep Learning from the start, and build up all the way to state-of-the-art models. 
