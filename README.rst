@@ -36,6 +36,8 @@ Table of contents
 
 - `CP decomposition <https://github.com/tensorly/tensorly-notebooks/blob/master/02_tensor_decomposition/cp_decomposition.ipynb>`_
 - `Tucker decomposition <https://github.com/tensorly/tensorly-notebooks/blob/master/02_tensor_decomposition/tucker_decomposition.ipynb>`_
+- `Non-negative CP decomposition <https://github.com/caglayantuna/tensorly-notebooks/blob/non-negative/02_tensor_decomposition/nn_cp_decomposition.ipynb>`_
+- `Non-negative Tucker decomposition <https://github.com/caglayantuna/tensorly-notebooks/blob/non-negative/02_tensor_decomposition/nn_tucker_decomposition.ipynb>`_
 
 3 - Tensor regression
 ---------------------
